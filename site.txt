@@ -1,0 +1,119 @@
+ OpenStack
+http://docs.openstack.org/
+http://docs.openstack.org/liberty/install-guide-ubuntu/
+
+
+The languages you should study
+
+C  Lisp Haskell Erlang
+
+Your mouse is a database
+http://queue.acm.org/detail.cfm?id=2169076
+
+office/win7 win8/visual studio
+
+http://msdn.itellyou.cn/?lang=zh-cn
+
+
+Mamont's open FTP Index
+http://www.mmnt.net/
+
+ftp://ftp.cs.uiowa.edu/pub/ 
+
+数学史/数学人物传记
+http://www-history.mcs.st-andrews.ac.uk/
+http://freecomputerbooks.com/
+
+黑客与画家
+http://www.paulgraham.com/hp.html
+
+Haskell
+
+http://learnyouahaskell-zh-tw.csie.org/zh-cn/chapters.html
+
+http://www.haskell.org/platform/
+
+
+论坛：
+
+theithome.net 计算机经典书籍学习与交流论坛
+
+
+Formal Syntax and Semantics of Programming Languages:
+A Laboratory-Based Approach
+
+ 
+
+http://homepage.divms.uiowa.edu/~slonnegr/
+
+MIT open course
+
+http://ocw.mit.edu/index.htm
+
+https://github.com/FoOTOo/Learning-SICP
+
+computer:
+http://www.cs.princeton.edu/~rs/ 
+http://www.drdobbs.com/articles
+http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2008/lecture-notes/
+
+sort:
+http://en.wikipedia.org/wiki/Sorting_algorithm
+http://en.wikipedia.org/wiki/Heapsort
+ 
+data structure:
+http://en.wikipedia.org/wiki/List_of_data_structures
+ 
+
+Donald E. Knuth 
+http://www-cs-faculty.stanford.edu/~knuth/
+
+martinfowler
+http://www.martinfowler.com/intro.html
+
+electronics：
+http://www.ourdev.cn/bbs/
+
+ web:
+
+http://stapler.kohsuke.org/
+
+http://stapler.kohsuke.org/jelly-taglib-ref.html
+
+http://commons.apache.org/proper/commons-jelly/tags.html
+
+http://commons.apache.org/proper/commons-jelly/
+
+ 
+
+thoughtworks
+
+https://www.ibm.com/developerworks/cn/java/j-eaed/
+
+
+Agile Data Home
+
+http://www.agiledata.org/
+
+
+酷勤网
+
+http://www.kuqin.com
+
+ 
+
+简明python教程
+
+http://sebug.net/paper/python/
+
+http://www.python-course.eu/finite_state_machine.php
+
+
+ 
+个人博客
+http://www.cnblogs.com/netfocus/  专注于面向对象、领域驱动设计，及软件架构方面的学习
+http://www.cppblog.com/vczh/
+ http://www.cppblog.com/vczh/  编译原理系列文章
+Other
+http://boyuanwuhui.blog.163.com
+http://www.360doc.com/userhome/604703
